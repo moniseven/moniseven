@@ -41,9 +41,9 @@ Garage hacker in the SF Bay Area. I'm the kind of person who buys a car partly s
 
 <div align="center">
 
-![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniseven&show_icons=true&theme=tokyonight)
+![Ken's GitHub stats](https://github-readme-stats.hackclub.dev/api?username=moniseven&show_icons=true&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moniseven&layout=compact&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=moniseven&theme=tokyonight)
 
 </div>
 
